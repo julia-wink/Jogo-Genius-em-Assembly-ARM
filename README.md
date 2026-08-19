@@ -90,13 +90,6 @@ O projeto foi desenvolvido para o ambiente **CPUlator ARMv7 DE1-SoC**.
 
 > **Observação:** o projeto depende dos endereços de memória e dos dispositivos disponíveis no sistema ARMv7 DE1-SoC. Portanto, ele não foi desenvolvido para execução em um computador comum sem o ambiente de simulação ou hardware compatível.
 
-## 📚 Contexto acadêmico
-
-Projeto desenvolvido como atividade prática da disciplina de **Arquitetura de Computadores**, com o objetivo de aplicar conceitos de programação em Assembly, manipulação de registradores, acesso a periféricos, temporizadores, entrada/saída e gerenciamento de memória.
-
-## 👥 Autores
-
-Projeto desenvolvido em grupo para a disciplina de Arquitetura de Computadores.
 
 **Integrantes:**
 
@@ -105,6 +98,4 @@ Projeto desenvolvido em grupo para a disciplina de Arquitetura de Computadores.
 - Thiago H. Minervino
 - Vinícius de O. Teles
 
-## 📄 Licença
 
-Projeto desenvolvido para fins acadêmicos.

@@ -22,7 +22,7 @@
 .equ PRETO, 0x0000
 
 .equ ENDERECO_TIMER,  0xFFFEC600
-.equ TEMPO_DELAY, 	  0x001e8480 @ tempo x frquencia (200mhz) / (prescaler+1) // mas no simulador fica ruim mds
+.equ TEMPO_DELAY, 	  0x001e8480 @ tempo x frquencia (200mhz) / (prescaler+1) 
 .equ ENDERECO_TIMER2, 0xFF202020
 
 

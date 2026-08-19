@@ -4,7 +4,7 @@ Projeto desenvolvido em grupo para a disciplina de **Arquitetura de Computadores
 
 O projeto consiste na implementação de um jogo inspirado no **Genius (Simon Says)**, no qual o jogador deve reproduzir uma sequência de cores apresentada pelo sistema.
 
-## 🎮 Funcionamento
+## Funcionamento
 
 O jogo gera uma sequência de 10 cores e apresenta cada uma delas na tela. Em seguida, o jogador deve pressionar os botões correspondentes na mesma ordem em que as cores foram apresentadas.
 
@@ -19,7 +19,7 @@ As quatro cores utilizadas são:
 
 Caso o jogador pressione um botão incorreto ou pressione mais de um botão simultaneamente, o jogo é encerrado.
 
-## ⚙️ Tecnologias e conceitos
+## Tecnologias e conceitos
 
 - Assembly ARM (ARMv7)
 - CPUlator
@@ -34,7 +34,7 @@ Caso o jogador pressione um botão incorreto ou pressione mais de um botão simu
 - Double Buffering
 - Renderização de pixels em Assembly
 
-## 🖥️ Dispositivos simulados
+## Dispositivos simulados
 
 O projeto utiliza recursos da placa DE1-SoC simulados pelo CPUlator, principalmente:
 
@@ -45,7 +45,7 @@ O projeto utiliza recursos da placa DE1-SoC simulados pelo CPUlator, principalme
 
 O acesso aos periféricos é realizado por meio de endereços de memória mapeada.
 
-## 🧠 Principais partes do código
+## Principais partes do código
 
 ### Geração da sequência
 
@@ -73,7 +73,7 @@ O projeto utiliza **Double Buffering**, alternando entre um front buffer e um ba
 
 A função `delay` utiliza um timer para controlar o intervalo de exibição entre as cores.
 
-## ▶️ Como executar
+## Como executar
 
 O projeto foi desenvolvido para o ambiente **CPUlator ARMv7 DE1-SoC**.
 

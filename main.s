@@ -44,7 +44,7 @@ ultimo_valor_gerado:
 
 .text
 main:
-    bl seed @ inicializa o gerador de números aleatórios 2'000 (timer :) eu que fiz gostou?)
+    bl seed @ inicializa o gerador de números aleatórios
 	@atualiza a tela com todos os leds desligados :
 	bl configurar_double_buffer
    	mov r0, #0

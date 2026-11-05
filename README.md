@@ -1,6 +1,6 @@
 # Jogo Genius em Assembly ARM
 
-Projeto desenvolvido em grupo para a disciplina de **Arquitetura de Computadores**, utilizando **Assembly ARM** e o simulador **CPUlator**, com o sistema **ARMv7 DE1-SoC**.
+Projeto desenvolvido em grupo para a disciplina de **Arquitetura de Computadores**, utilizando **Assembly ARM** e o simulador **CPUlator**, com o sistema **ARMv7 DE1-SoC**. Como integrante implementei o main e a dinamica de loops para chamar casa subrotina
 
 O projeto consiste na implementação de um jogo inspirado no **Genius (Simon Says)**, no qual o jogador deve reproduzir uma sequência de cores apresentada pelo sistema.
 
@@ -91,11 +91,5 @@ O projeto foi desenvolvido para o ambiente **CPUlator ARMv7 DE1-SoC**.
 > **Observação:** o projeto depende dos endereços de memória e dos dispositivos disponíveis no sistema ARMv7 DE1-SoC. Portanto, ele não foi desenvolvido para execução em um computador comum sem o ambiente de simulação ou hardware compatível.
 
 
-**Integrantes:**
-
-- Julia C. Winkler
-- Pedro P. Gatto
-- Thiago H. Minervino
-- Vinícius de O. Teles
 
 
